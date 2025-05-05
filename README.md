@@ -9,12 +9,12 @@ Screen Shots. This code contains the front cover and a code that connects this p
 The image below shows a code that will display the front cover of the application. The code as a function that connects the first activity to the next.
 ![image](https://github.com/user-attachments/assets/8adfe97d-78e0-4059-8406-40bb767e3a1d)
 
-Flashcard code. 
+Flashcard code. Contains code that stores the questions and asigns a true or false statement to each question. The questions are true or false questions. Arrays allow the questions to be added sequently and asked in the same order as the code on the actaul application.
 ![image](https://github.com/user-attachments/assets/602a0d8b-9b50-42a1-b604-a57235a00a5e)
 ![image](https://github.com/user-attachments/assets/9079fa6c-2de8-4fb6-b57d-4cea1c3a647b)
 ![image](https://github.com/user-attachments/assets/542985c8-bdbd-411b-a2fe-0956aad01463)
 
-Score screen code.
+Score screen code. This code will provide a score after answering the questions as well as a comment depending on how many questions you got right. A score of 3 or above will result in the "Fantastic work!" comment and a score of below 3 will provide the "Do better Comment".
 ![image](https://github.com/user-attachments/assets/71a8f367-956c-40cd-9fdd-a497d9058a03)
 
 
