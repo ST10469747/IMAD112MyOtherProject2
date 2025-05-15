@@ -1,7 +1,7 @@
 # IMAD112MyOtherProject2
 link to repository - https://github.com/ST10469747/IMAD112MyOtherProject2
 
-link to video - https://youtube.com/shorts/dOMofqk9lbs?feature=share
+link to video - https://youtu.be/RPHgETkM93I?si=hg-vUcCVUa6IoiGE
 
 This application provides the user with five questions and a score after answering all questions. The score will determine what comment will be displayed. A score thats 3 or more will results with a comment that reads "Fantastic work!"  a score less than 3 will display the message "Do better. 
 
